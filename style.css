@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/3324555.jpg");
+    background-size: 100%;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+
+.cell {
+    text-align: center;
+    background-color: rgba(32, 32, 32, 0.534);
+    border:5px solid black;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.table-text {
+    text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
+}
